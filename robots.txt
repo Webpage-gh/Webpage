@@ -3,3 +3,4 @@ User-agent: *
 Disallow: 
 Disallow: /game/
 Disallow: /vpn/
+Disallow: /qq/
