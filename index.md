@@ -17,10 +17,11 @@ ISO文件其实就是光盘的镜像文件，刻录软件可以直接把ISO文�
 
 #### Windows
 
-- Windows 7 x86：`ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso|2653276160|08F65018BD9B5BC8D77C1C7C5615A329|/`
-- Windows 7 x64：`ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557312|430BEDC0F22FA18001F717F7AF08C9D5|/` 
-- Windows 10 x86：`ed2k://|file|cn_windows_10_consumer_editions_version_21h1_x86_dvd_5f857a50.iso|4199946240|2A21FDB6FFB903A0EF594A9F0FBFAEDB|/`
-- Windows 10 x64：`ed2k://|file|cn_windows_10_consumer_editions_version_21h1_x64_dvd_1baf479d.iso|5807677440|E53960C7CAD323F60442A8AB9C269C2E|/`
+- Windows 7 x86：`ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso|2653276160|08F65018BD9B5BC8D77C1C7C5615A329|/`  
+- Windows 7 x64：`ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557312|430BEDC0F22FA18001F717F7AF08C9D5|/`  
+- Windows 10 x86：`ed2k://|file|cn_windows_10_consumer_editions_version_21h1_x86_dvd_5f857a50.iso|4199946240|2A21FDB6FFB903A0EF594A9F0FBFAEDB|/`  
+- Windows 10 x64：`ed2k://|file|cn_windows_10_consumer_editions_version_21h1_x64_dvd_1baf479d.iso|5807677440|E53960C7CAD323F60442A8AB9C269C2E|/`  
+- Windows 11 x64：`ed2k://|file|22000.1.210604-1628.CO_RELEASE_SVC_PROD2_CLIENTPRO_OEMRET_X64FRE_ZH-CN.ISO|4653936640|0160A9370D42D414035F733581AE7230|/`
 
 #### Ubuntu
 
