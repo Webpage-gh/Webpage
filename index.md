@@ -47,8 +47,8 @@ ISO文件其实就是光盘的镜像文件，刻录软件可以直接把ISO文�
 如果在本页未能找到有用的工具，请前往下一页。
 
 - [HKU KMS Activator v23.0](./archives/hku-kms-activator)  
-- [EasyU 3.6.2021.0316](./archives/easyu)
-- [EasyDrv7 7.21.401.2](./archives/easydrv)
+- [EasyU 3.6.2021.0316](./archives/eu)
+- [EasyDrv7 7.21.401.2](./archives/ed)
 
 
 ### 关于Webpage
