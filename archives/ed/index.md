@@ -1,4 +1,4 @@
-## EasyDrv_7.21.509.5
+## EasyDrv_7.21
 
 
 ### 介绍
@@ -8,4 +8,4 @@
 
 
 ### 下载地址：
-[EasyDrv_7.21.509.5](https://www.itsk.com/redirect.php?id=ed)
+[EasyDrv_7.21](https://www.itsk.com/redirect.php?id=ed)
