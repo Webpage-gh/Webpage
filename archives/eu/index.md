@@ -1,4 +1,4 @@
-## EasyU_3.6
+## EasyU_3.7
 
 
 ### 介绍
@@ -8,7 +8,7 @@
 
 
 ### 下载地址：
-[EasyU_3.6.2021.0418](https://www.itsk.com/redirect.php?id=eu)  
+[EasyU_3.7](https://www.itsk.com/redirect.php?id=eu)  
 
 
 需要 ISO 格式的**纯净主页**EasyU吗？[点我下载](https://moecloud.cn/s/yd18Tj)。如果此网盘要求登录，请返回本页重新点击。  
