@@ -8,6 +8,7 @@
 
 
 ### 下载地址：
-[HEU KMS Activator v23.0](https://wwi.lanzoux.com/ifhZdokpzaj)  
+[HEU KMS Activator v23.0](https://wwi.lanzoui.com/ijGuZrs2x4j)  
+密码：fpxo  
 注意：下载前请先关闭所有杀软，在Windows 10系统需要临时停用Windows Defender  
 微信公众号：知彼而知己
