@@ -5,10 +5,6 @@
 
 ### ISO 文件下载
 
-您可以在这里找到主流操作系统的 ISO 文件。
-
-#### Windows
-
 - Windows 7 SP1 x86
   <details><code>magnet:?xt=urn:btih:585DF592DE43A067C75CFE5A639B41FC3F24DA6F&dn=cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso&xl=2653276160</code><br>SHA1：B92119F5B732ECE1C0850EDA30134536E18CCCE7</details>
 - Windows 7 SP1 x64
@@ -30,8 +26,6 @@
 
 
 ### 游戏
-
-下载时太过于漫长？试试这些吧！
 
 - [0hh1](./game/0)  
 - [2048](./game/1)  
