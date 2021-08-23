@@ -19,15 +19,15 @@
 
 ### 实用工具
 
-- [迅雷绿色版](https://moecloud.cn/s/PpX7cM)
-- [HEU KMS Activator](https://wwi.lanzoui.com/tp/ijGuZrs2x4j) 密码：`fxpo`  
+- [迅雷绿色版](https://moecloud.cn/s/PpX7cM)(手机版[点我下载](https://moecloud.cn/s/Eo82Hd))
+- [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)  
 - [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/yd18Tj))
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
 
 
 ### 游戏
 
-- [0hh1](./game/0)  
+- [0hh1](game/0)  
 - [2048](./game/1)  
 - [黑白棋](./game/2)  
 - [见缝插针](./game/3)  
@@ -36,6 +36,10 @@
 - [旋转六边形](./game/6)  
 - [一个都不能死](./game/7)
 - [五子棋](./game/8)
+
+
+### 友情链接
+MSDN(https://msdn.itellyou.cn) IT天空(https://www.itsk.com)
 
 
 免责声明：站内所有资源仅供学习交流，严禁用于商业用途，请于下载后24小时内删除。
