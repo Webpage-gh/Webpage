@@ -39,7 +39,7 @@
 
 
 ### 友情链接
-MSDN(https://msdn.itellyou.cn) IT天空(https://www.itsk.com)
+[MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
 
 
 免责声明：站内所有资源仅供学习交流，严禁用于商业用途，请于下载后24小时内删除。
