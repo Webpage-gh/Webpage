@@ -1,7 +1,6 @@
 ## Webpage
 
 欢迎来到[未来无限](https://us.sb/webpage)的小站，您可以在这里下载一些系统镜像及其工具，或者在这个站点内找到一些彩蛋。  
-*因域名即将到期，本站随时迁移到[webpage.lv9v.cn](https://webpage.lv9v.cn)，请记住新域名，以备不时之需。*
 
 
 ### ISO 文件下载
