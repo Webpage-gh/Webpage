@@ -36,6 +36,7 @@
 - [旋转六边形](game/6)  
 - [一个都不能死](game/7)
 - [五子棋](game/8)
+- [人生重开模拟器](https://liferestart.syaro.io/view/)
 
 
 ### 友情链接
