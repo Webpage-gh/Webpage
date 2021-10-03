@@ -13,8 +13,8 @@
   <details><code>magnet:?xt=urn:btih:A81C7C38AF2D62530C2147D350312949D6C3DD56&dn=zh-cn_windows_10_business_editions_version_21h1_updated_aug_2021_x86_dvd_56839d97.iso&xl=4143134720</code><br>SHA1：FDD8348B4472D3BEF3545CC890F38D2B51E1F58B</details>
 - Windows 10 21H1 x64
   <details><code>magnet:?xt=urn:btih:26C407AE18D4AED7DA03F1ED8DD8D4ECC8A120F0&dn=zh-cn_windows_10_business_editions_version_21h1_updated_aug_2021_x64_dvd_e77da303.iso&xl=5718181888</code><br>SHA1：B62A9616268418AFD36B856C44A2A9BD2BF8E450</details>
-- Windows 11 22000.132 x64
-  <details><code>magnet:?xt=urn:btih:575BBD64A372284C92A304A2492D7E2F7DCE3BFE&dn=Windows11_InsiderPreview_Client_x64_zh-cn_22000.iso&xl=5506693120</code><br>SHA1：3A73C3C8133BE4D47D450937EAA0780423FAAB26</details>  
+- Windows 11 Build 22454 x64
+  <details><code>magnet:?xt=urn:btih:72DCA2544C2135412A0725307FB2C7CD97D22261&dn=Windows11_InsiderPreview_Client_x64_zh-cn_22454.iso&xl=4903213056</code><br>SHA1：6A022A5721D5BBFB76CC2717CA076A521ACE5A0B</details>  
 
 
 ### 实用工具
