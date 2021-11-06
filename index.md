@@ -20,20 +20,20 @@
 ### 实用工具
 
 - [迅雷绿色版](https://moecloud.cn/s/PpX7cM)(手机版[点我下载](https://moecloud.cn/s/Eo82Hd))
-- [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)  
+- [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/bEMwuL))
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
 
 
 ### 游戏
 
-- [0hh1](game/0)  
-- [2048](game/1)  
-- [黑白棋](game/2)  
-- [见缝插针](game/3)  
-- [魔方](game/4)  
-- [切积木](game/5)  
-- [旋转六边形](game/6)  
+- [0hh1](game/0)
+- [2048](game/1)
+- [黑白棋](game/2)
+- [见缝插针](game/3)
+- [魔方](game/4)
+- [切积木](game/5)
+- [旋转六边形](game/6)
 - [一个都不能死](game/7)
 - [五子棋](game/8)
 - [人生重开模拟器](https://liferestart.syaro.io/view/)
