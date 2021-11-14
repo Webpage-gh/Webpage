@@ -19,9 +19,9 @@
 
 ### 实用工具
 
-- [迅雷绿色版](https://moecloud.cn/s/PpX7cM)(手机版[点我下载](https://moecloud.cn/s/Eo82Hd))
+- [迅雷绿色版](https://moecloud.cn/s/oKMdIk)(手机版[点我下载](https://moecloud.cn/s/91KZc9))
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
-- [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/bEMwuL))
+- [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/lpoNtO))
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
 
 
