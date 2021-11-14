@@ -10,11 +10,11 @@
 - Windows 7 SP1 x64
   <details><code>magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312</code><br>SHA1：2CE0B2DB34D76ED3F697CE148CB7594432405E23</details>
 - Windows 10 21H1 x86
-  <details><code>magnet:?xt=urn:btih:A81C7C38AF2D62530C2147D350312949D6C3DD56&dn=zh-cn_windows_10_business_editions_version_21h1_updated_aug_2021_x86_dvd_56839d97.iso&xl=4143134720</code><br>SHA1：FDD8348B4472D3BEF3545CC890F38D2B51E1F58B</details>
+  <details><code>magnet:?xt=urn:btih:83EDBAD0B3BBE6A2ABD451F3114D11FD2459A87A&dn=zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x86_dvd_3a0314c9.iso&xl=4140279808</code><br>SHA1：4DBD9B92E185D3A07EB802FEE2FB42FBCE707A0A</details>
 - Windows 10 21H1 x64
-  <details><code>magnet:?xt=urn:btih:26C407AE18D4AED7DA03F1ED8DD8D4ECC8A120F0&dn=zh-cn_windows_10_business_editions_version_21h1_updated_aug_2021_x64_dvd_e77da303.iso&xl=5718181888</code><br>SHA1：64769CCDC7B319F90811E039FA49E785569FD87B</details>
-- Windows 11 business editions x64
-  <details><code>magnet:?xt=urn:btih:7D77AF4A99A4C5AEAB1D401755E473BA7EBD7B1C&dn=zh-cn_windows_11_business_editions_x64_dvd_f5f6bcbd.iso&xl=5413181440</code><br>SHA1：6A022A5721D5BBFB76CC2717CA076A521ACE5A0B</details>  
+  <details><code>magnet:?xt=urn:btih:5C66F9BE1E46D0D4F7EC418D54C3A3FB03679D6D&dn=zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x64_dvd_023d42d3.iso&xl=5709488128</code><br>SHA1：3A656F7209547468FBB5B794D78F216C7603E16C</details>
+- Windows 11 21H2 x64
+  <details><code>magnet:?xt=urn:btih:98BB0A1703D5E36ADCE9BAAA1E02D86C29C4DF95&dn=zh-cn_windows_11_business_editions_version_21h2_updated_october_2021_x64_dvd_a84e149f.iso&xl=5419143168</code><br>SHA1：50EFA8B2735979457001221B421B1A645F7E0A75</details>  
 
 
 ### 实用工具
