@@ -38,7 +38,7 @@
 		
 	</head>
 	<body>
-		<h3 id="result-wrap">--五子棋，玩完别哭啊，哭我揍你--</h3>
+		<h3 id="result-wrap">--益智五子棋--</h3>
 		<canvas id="chess" width="450px" height="450px"></canvas>
 		<div id="btn-wrap">
 			<div id="restart" class="restart">
@@ -142,7 +142,7 @@
 				}
 				// 悔棋功能可用
 				backbtn.className = backbtn.className.replace(new
-				RegExp("(\\s|^)unable(\\s|$)")," ");
+				RegExp("(\s|^)unable(\s|$)")," ");
 				var x = e.offsetX;
 				var y = e.offsetY;
 				var i = Math.floor(x / 30);
@@ -161,7 +161,7 @@
 							computerWin[k] = 6; //这个位置对方不可能赢了
 							if(myWin[k] == 5){
 								// window.alert('你赢了');
-								resultTxt.innerHTML = '你也就打败了一个智障而已！';
+								resultTxt.innerHTML = '恭喜，你赢了！';
 								over = true;
 							}
 						}
@@ -180,7 +180,7 @@
 				 // resultTxt.innerHTML = 'o(╯□╰)o，悔棋中';
                 // 撤销悔棋功能可用
 				returnbtn.className = returnbtn.className.replace( new
-				RegExp("(\\s|^)unable(\\s|$)")," ");
+				RegExp("(\s|^)unable(\s|$)")," ");
 				// 我，悔
 				chressBord[_nowi][_nowj] = 0; //我，已占位置 还原
 				minusStep(_nowi, _nowj); //销毁棋子
@@ -319,7 +319,7 @@
 						_myWin[k] = myWin[k];
 						myWin[k] = 6; //这个位置对方不可能赢了
 						if(computerWin[k] == 5){
-							resultTxt.innerHTML = '你傻不傻呀，居然让计算机赢了';
+							resultTxt.innerHTML = 'o(╯□╰)o，计算机赢了，继续加油哦！';
 							over = true;
 						}
 					}
