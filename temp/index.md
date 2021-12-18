@@ -15,7 +15,7 @@
 
 ### 使用 DoH
 Chrome for Windows：
-打开 <a href="chrome://settings/security" target="_blank">Chrome-隐私设置和安全性-安全</a>-使用 OpenDNS。
+打开 [Chrome-隐私设置和安全性-安全](chrome://settings/security)-使用 OpenDNS。
 
 ### 更换网址
 使用<a href="https://s.cn.bing.net" target="_blank">s.cn.bing.net</a>。
