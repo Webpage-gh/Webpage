@@ -24,3 +24,4 @@ Chrome for Windows：
 更换网络环境，方法不提供
 
 使用 DoT(Android 私人 DNS,未测试)
+<a role="menuitem" id="people" href="chrome://people">
