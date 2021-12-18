@@ -13,7 +13,7 @@
 (如Windows Chrome 安全 DNS)  
 打开 "chrome://settings/security"-使用安全DNS-使用 OpenDNS
 
-### 使用"[s.cn.bing.net](https://s.cn.bing.net)"
+### 使用"[www4.bing.com](https://www4.bing.net)[s.cn.bing.net](https://s.cn.bing.net)"
 
 ### 其它  
 更换网络环境，方法不提供
