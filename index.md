@@ -24,7 +24,7 @@
 - [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/lpoNtO))
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
 
-百度网盘链接在输入提取码后将地址中`baidu.com`前添加`kd`可使用 KinhDown 进行解析；腾讯微云连接可在已安装 TIM 时将保存的微云文件转发至任意联系人（建议自建群）进行高速下载。
+IT天空打开链接时可右键/长按后选择新标签页打开避免站内打开。百度网盘链接在输入提取码后将地址中`baidu.com`前添加`kd`可使用 KinhDown 进行解析。腾讯微云连接可在已安装 TIM 时将保存的微云文件转发至任意联系人（建议自建群）进行高速下载。
 
 ### 游戏
 
