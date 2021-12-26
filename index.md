@@ -23,6 +23,7 @@
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/lpoNtO))
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
+
 百度网盘链接在输入提取码后将地址中`baidu.com`前添加`kd`可使用KinhDown进行解析；腾讯微云连接可在已安装TIM时将保存的微云文件转发至任意
 联系人（建议自建群）进行高速下载。
 
@@ -41,7 +42,7 @@
 
 
 ### 友情链接
-[Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
+[Wang's blog](https://iwsoft.cn) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
 
 
 <span id="协议内容">免责声明：  
