@@ -38,6 +38,7 @@ IT天空打开链接时可右键/长按后选择新标签页打开避免站内�
 - [一个都不能死](game/7)
 - [五子棋](game/8)
 - [人生重开模拟器](https://liferestart.syaro.io/view/)
+- [人设生成器](https://draw.luomuyu.xyz/)
 
 
 ### 友情链接
