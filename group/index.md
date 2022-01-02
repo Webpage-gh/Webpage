@@ -24,5 +24,5 @@
 [^9]:以本人盈利(包括访问量)为主要目的的广告。
 
 　　进入`AI比较群`即代表您阅读并同意本公告，更改公告时无需另行通知。如您阅读后不同意，请立即退群，否则管理层将采取强制措施，移出本群。文件，昵称，邮件等同样适用于本公告。  
-　　发布文件向`群文件助手`发送即可，有专人审核。病毒和报毒文件须加密 ，统一为`infected`；原版win镜像，公开gho镜像，bat病毒不能上传，其他镜像可上传分享链接。下载文件请前往<a href="https://yunpan.360.cn/surl_ykun9KgbPpD" target="_blank">360云盘<a/>。  
+　　发布文件向`群文件助手`发送即可，有专人审核。病毒和报毒文件(<a href="https://ata.360.net/detection" target="_blank">点此检测<a/>)须加密 ，统一为`infected`；原版win镜像，公开gho镜像，bat病毒不能上传，其他镜像可上传分享链接。下载文件请前往<a href="https://yunpan.360.cn/surl_ykun9KgbPpD" target="_blank">360云盘<a/>。  
 #### 本文链接[webpage.iwsoft.cn/group](https://webpage.iwsoft.cn/group)
