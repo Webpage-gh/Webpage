@@ -22,7 +22,7 @@ Chrome for Android:
 <85:打开`chrome://flags/#dns-over-https`,将Default改为Enabled，点击Relaunch。
 
 ### 更换网址
-使用<a href="https://s.cn.bing.net">s.cn.bing.net</a>。
+~~使用<a href="https://s.cn.bing.net">s.cn.bing.net</a>。~~
 
 ### 其它  
 更换网络环境，方法不提供
