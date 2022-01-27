@@ -17,12 +17,11 @@
 Chrome for Windows：  
 打开`chrome://settings/security`，勾选使用安全DNS，使用您当前的服务提供商。  
 Chrome for Android:
-≥85:chrome://flags/#dns-over-https
-点击“…”-设置-隐私-使用安全 DNS，勾选使用您当前的服务提供商
+≥85:点击“…”-设置-隐私-使用安全 DNS，勾选使用您当前的服务提供商。  
 <85:打开`chrome://flags/#dns-over-https`,将Default改为Enabled，点击Relaunch。
 
 ### 更换网址
-~~使用<a href="https://s.cn.bing.net">s.cn.bing.net</a>。~~
+使用<a href="https://s.cn.bing.net">s.cn.bing.net</a>。
 
 ### 其它  
 更换网络环境，方法不提供
