@@ -10,3 +10,4 @@
 - [一个都不能死](./7)
 - [五子棋](./8)
 - [人生重开模拟器](https://liferestart.syaro.io/view/)
+- [吃掉小猫猫](https://eafoo.github.io/eatcat/)
