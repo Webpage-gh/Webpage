@@ -43,7 +43,7 @@ IT天空打开链接时可右键/长按后选择新标签页打开避免站内�
 
 
 ### 友情链接
-[Wang's blog](https://iwsoft.cn) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
+[123云盘](/www.123pan.com) [MSDN](/msdn.itellyou.cn) [IT天空](/www.itsk.com) [实用工具箱](/www.sygjx.com)
 
 
 <span id="协议内容">免责声明：  
