@@ -14,7 +14,7 @@
 - Windows 10 21H2 x64
   <details><code>magnet:?xt=urn:btih:a6594f14273fe02ae59a6d6848a47e55903d919b&dn=zh-cn_windows_10_business_editions_version_21h2_updated_dec_2021_x64_dvd_9840f50d.iso&xl=5827766272</code><br>SHA1：48E35FA7BCC1049A0350A50974D825E1A903F92A</details>
 - Windows 11 21H2 x64
-  <details><code>magnet:?xt=urn:btih:fb4fb9945eab74f2d0ecf5338463e71d3d19fb3f&dn=zh-cn_windows_11_business_editions_updated_dec_2021_x64_dvd_ff426bea.iso&xl=5520793600</code><br>SHA1：E79FE07B6E40163D9DEEAC2417499E8BA81239B3</details>  
+  <details><code>magnet:?xt=urn:btih:900dd0c358778a5374a4136d2472bcf469c68085&dn=zh-cn_windows_11_business_editions_updated_april_2022_x64_dvd_dec0b963.iso&xl=5631578112</code><br>SHA1：D77063D5639876EE999287FAED71C2FBAB535343</details>  
 
 
 ### 实用工具
