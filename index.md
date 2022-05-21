@@ -20,7 +20,7 @@
 ### 实用工具
 
 - [迅雷PE版](https://www.123pan.com/s/FkQ9-dvcjH)(手机版[点我下载](https://www.123pan.com/s/FkQ9-OTcjH))
-- [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)(激活工具)
+- [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)(激活工具，22号更新)
 - [万能联播](https://www.123pan.com/s/FkQ9-3vcjH)(度盘高速下载,安卓5.1及以上)
 - [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://www.123pan.com/s/FkQ9-DTcjH))(PE)
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
