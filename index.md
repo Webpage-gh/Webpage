@@ -1,31 +1,39 @@
 ## Webpage的小站
 
-欢迎来到[Webpage](mqq://card/show_pslcard?uin=%32%35%38%31%33%36%30%32%39%30)的小站，您可以在这里下载一些系统镜像及其工具。当您使用本站或下载所发布的资源时，即自动视为您已阅读、已理解、认可并同意遵守全部[协议内容](#协议内容)。  
+欢迎来到[Webpage](mqq://card/show_pslcard?uin=%32%35%38%31%33%36%30%32%39%30)的小站，您可以在这里下载一些系统镜像及其工具。当您使用本站或下载所发布的资源时，即自动视为您已阅读、已理解、认可并同意遵守全部[协议内容](#协议内容)。
 
 
 ### ISO 文件下载
 
-- Windows 7 SP1 x86
-  <details><code>magnet:?xt=urn:btih:585DF592DE43A067C75CFE5A639B41FC3F24DA6F&dn=cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso&xl=2653276160</code><br>SHA1：B92119F5B732ECE1C0850EDA30134536E18CCCE7</details>
 - Windows 7 SP1 x64
-  <details><code>magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312</code><br>SHA1：2CE0B2DB34D76ED3F697CE148CB7594432405E23</details>
-- Windows 10 21H1 x86
-  <details><code>magnet:?xt=urn:btih:83EDBAD0B3BBE6A2ABD451F3114D11FD2459A87A&dn=zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x86_dvd_3a0314c9.iso&xl=4140279808</code><br>SHA1：4DBD9B92E185D3A07EB802FEE2FB42FBCE707A0A</details>
-- Windows 10 21H2 x64
-  <details><code>magnet:?xt=urn:btih:a6594f14273fe02ae59a6d6848a47e55903d919b&dn=zh-cn_windows_10_business_editions_version_21h2_updated_dec_2021_x64_dvd_9840f50d.iso&xl=5827766272</code><br>SHA1：48E35FA7BCC1049A0350A50974D825E1A903F92A</details>
-- Windows 11 21H2 x64
-  <details><code>magnet:?xt=urn:btih:900dd0c358778a5374a4136d2472bcf469c68085&dn=zh-cn_windows_11_business_editions_updated_april_2022_x64_dvd_dec0b963.iso&xl=5631578112</code><br>SHA1：D77063D5639876EE999287FAED71C2FBAB535343</details>  
-
+<details><code>
+magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312
+</code>
+SHA1：2CE0B2DB34D76ED3F697CE148CB7594432405E23
+</details>
+- Windows 10 x64 5月更新
+<details><code>
+magnet:?xt=urn:btih:e93bc373d8f7c82532b17e90f492c4d0c5ff3ff9&dn=zh-cn_windows_10_business_editions_version_21h2_updated_may_2022_x64_dvd_3e40125e.iso&xl=5804613632
+</code>
+SHA1：67B3FD81825AFCD0F9E66C08FAAD481E8ADBAC8B
+</details>  
+- Windows 10 LTSC x64
+<details><code>
+magnet:?xt=urn:btih:366ADAA52FB3639B17D73718DD5F9E3EE9477B40&dn=SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO&xl=5044211712
+</code>
+SHA1：C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C
+</details>
 
 ### 实用工具
 
-- [迅雷PE版](https://www.123pan.com/s/FkQ9-dvcjH)(手机版[点我下载](https://www.123pan.com/s/FkQ9-OTcjH))
-- [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)(激活工具，22号更新)
-- [万能联播](https://www.123pan.com/s/FkQ9-3vcjH)(度盘高速下载,安卓5.1及以上)
-- [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://www.123pan.com/s/FkQ9-DTcjH))(PE)
-- [万能驱动](https://www.itsk.com/redirect.php?id=ed)
+- [迅雷PE版](//www.123pan.com/s/FkQ9-dvcjH)(手机版[点我下载](//www.123pan.com/s/FkQ9-OTcjH))
+- [HEU KMS Activator](//hub.fastgit.xyz/zbezj/HEU_KMS_Activator/releases/latest)(激活工具)
+- [FirPE](//cndown.puresys.net/cn2/FirPE/FirPE-V1.8.1.exe)(ISO格式[点我下载](//www.123pan.com/s/FkQ9-ExcjH))
+- [万能驱动](//www.itsk.com/redirect.php?id=ed)
+- [万能联播](//app.iqiyi.com/common/WlanPlay.apk)(度盘高速下载,安卓5.1及以上)
+- [极下解析](//jx.jixia.ink/#/jxdo)(度盘高速下载,需要微信)
 
-IT天空打开链接时可右键/长按后选择新标签页打开避免站内打开。百度网盘链接在输入提取码后将地址中`baidu.com`前添加`kd`可使用 KinhDown 进行解析。腾讯微云连接可在已安装 TIM 时将保存的微云文件转发至任意联系人（建议自建群）进行高速下载。
+IT天空打开链接时可右键/长按后选择新标签页打开避免站内打开。腾讯微云链接可在已安装 TIM 时将保存的微云文件转发至任意联系人（建议自建群）进行高速下载。
 
 ### 游戏
 
@@ -38,12 +46,12 @@ IT天空打开链接时可右键/长按后选择新标签页打开避免站内�
 - [旋转六边形](game/6)
 - [一个都不能死](game/7)
 - [五子棋](game/8)
-- [人生重开模拟器](https://liferestart.syaro.io/view/)
-- [吃掉小猫猫](https://eafoo.github.io/eatcat/)
+- [人生重开模拟器](//liferestart.syaro.io/view/)
+- [吃掉小猫猫](//eafoo.github.io/eatcat/)
 
 
 ### 友情链接
-[Chan's Blog](https://chencyhyy.gitee.io/chan-gitee/) [123云盘](//www.123pan.com) [MSDN](//msdn.itellyou.cn) [IT天空](//www.itsk.com) [实用工具箱](//www.sygjx.com)
+[Chan's Blog](//chencyhyy.gitee.io/chan-gitee/) [123云盘](//www.123pan.com) [MSDN](//msdn.itellyou.cn) [IT天空](//www.itsk.com) [实用工具箱](//www.sygjx.com)
 
 
 <span id="协议内容">免责声明：  
