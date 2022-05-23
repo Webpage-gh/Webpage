@@ -8,21 +8,21 @@
 Windows 7 SP1 x64
 <details><code>
 magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312
-</code>
-SHA1：2CE0B2DB34D76ED3F697CE148CB7594432405E23
-</details>
+</code><br>SHA1:<code>
+2CE0B2DB34D76ED3F697CE148CB7594432405E23
+</code></details>
 Windows 10 x64 5月更新
 <details><code>
 magnet:?xt=urn:btih:e93bc373d8f7c82532b17e90f492c4d0c5ff3ff9&dn=zh-cn_windows_10_business_editions_version_21h2_updated_may_2022_x64_dvd_3e40125e.iso&xl=5804613632
-</code>
-SHA1：67B3FD81825AFCD0F9E66C08FAAD481E8ADBAC8B
-</details>  
+</code><br>SHA1:<code>
+67B3FD81825AFCD0F9E66C08FAAD481E8ADBAC8B
+</code></details>  
 Windows 10 LTSC x64
 <details><code>
 magnet:?xt=urn:btih:366ADAA52FB3639B17D73718DD5F9E3EE9477B40&dn=SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO&xl=5044211712
-</code>
-SHA1：C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C
-</details>
+</code><br>SHA1:<code>
+C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C
+</code></details>
 
 ### 实用工具
 
