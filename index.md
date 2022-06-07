@@ -53,7 +53,6 @@ IT天空打开链接时可右键/长按后选择新标签页打开避免站内�
 ### 友情链接
 [Chan's Blog](//chencyhyy.gitee.io/chan-gitee/) [123云盘](//www.123pan.com) [MSDN](//msdn.itellyou.cn) [IT天空](//www.itsk.com) [实用工具箱](//www.sygjx.com)
 
-
 <span id="协议内容">免责声明：  
 1. 本站资源均来源于网络，所发布的资源仅作为学习、研究、交流目的之用途。使用、转载、转发请务必注明出处来源，禁止用于商业或收费盈利用途！  
 2. 对系统进行任何写操作行为均具有一定的风险，可能会造成系统或设备的损坏！资源发布前已完成测试，但由于设备种类繁多，操作方式不统一等仍无法保证绝对的兼容与安全性，因此作者不承担因阅读或使用所发布的文章教程或资源而造成的一切直接或间接的后果以及任何经济损失！请审慎考虑，如有异议，请勿参照文章教程操作或下载使用！  
@@ -68,4 +67,5 @@ function $buo_f(){
 try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
 catch(e){window.attachEvent("onload", $buo_f)}
 </script>
+
 [^1]:该文件可能报毒，请自行斟酌关闭杀毒软件
