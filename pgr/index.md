@@ -1,1 +1,1 @@
- <meta http-equiv="refresh" content="0;url=https://pgr.han-han.xyz/">
+window.location.href = 'https://phicommunity.com.cn/tapToStart/index.html';
