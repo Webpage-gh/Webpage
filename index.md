@@ -11,11 +11,11 @@ magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ult
 </code><br>SHA1:<code>
 2CE0B2DB34D76ED3F697CE148CB7594432405E23
 </code></details>
-Windows 10 x64 5月更新
+Windows 10 x64 6月更新
 <details><code>
-magnet:?xt=urn:btih:e93bc373d8f7c82532b17e90f492c4d0c5ff3ff9&dn=zh-cn_windows_10_business_editions_version_21h2_updated_may_2022_x64_dvd_3e40125e.iso&xl=5804613632
+magnet:?xt=urn:btih:aad25f5bd96ad09e3487860a13c75664f8b89c8e&dn=zh-cn_windows_10_business_editions_version_21h2_updated_june_2022_x64_dvd_93f8d9f6.iso&xl=5889005568
 </code><br>SHA1:<code>
-67B3FD81825AFCD0F9E66C08FAAD481E8ADBAC8B
+023CD1DD6831F60C8F5A478E82A214BDE55CABBB
 </code></details>  
 Windows 10 LTSC x64
 <details><code>
@@ -27,7 +27,7 @@ C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C
 ### 实用工具
 
 - [迅雷PE版](//www.123pan.com/s/FkQ9-rxcjH)[^1] (手机版[点我下载](//www.123pan.com/s/FkQ9-OTcjH))
-- [HEU KMS Activator](//hub.fastgit.xyz/zbezj/HEU_KMS_Activator/releases/latest)(激活工具)
+- [HEU KMS Activator](//hub.fastgit.xyz/zbezj/HEU_KMS_Activator/releases/latest)[^1](<font color="blank">激活工具</font> 解压密码`HEU168`)
 - [FirPE](//cndown.puresys.net/cn2/FirPE/FirPE-V1.8.1.exe)(ISO格式[点我下载](//www.123pan.com/s/FkQ9-ExcjH))
 - [万能驱动](//www.itsk.com/redirect.php?id=ed)
 - [万能联播](//app.iqiyi.com/common/WlanPlay.apk)(度盘高速下载,安卓5.1及以上)
