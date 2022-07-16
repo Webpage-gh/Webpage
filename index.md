@@ -51,7 +51,7 @@ IT天空打开链接时可右键/长按后选择新标签页打开避免站内�
 
 
 ### 友情链接
-[Chan's Blog](//chencyhyy.gitee.io/chan-gitee/) [MSDN](//msdn.itellyou.cn)
+[Chan's Blog](http://channahc.ayexist.com) [MSDN](//msdn.itellyou.cn)
  [IT天空](//www.itsk.com) [实用工具箱](//www.sygjx.com)
  [小知彼而知己](other/zbezj.png)
 
