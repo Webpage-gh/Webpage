@@ -1,6 +1,6 @@
 ### Group
 
-　　*进入`AI比较群`即代表您阅读并遵守本公告，更改公告时无需另行通知。如您阅读后不同意，请立即退群，否则管理层将采取强制措施，移出本群。文件，昵称，邮件等同样适用于本公告。*
+　　进入`AI比较群`即代表您阅读并遵守本公告，更改公告时无需另行通知。如您阅读后不同意，请立即退群，否则管理层将采取强制措施，移出本群。文件，昵称，邮件等同样适用于本公告。
 
 条目|规则
 -|-:
@@ -17,7 +17,7 @@
 谣言 色情 赌博|撤回+1天
 恶意链接 主动的商业广告[^9]|移除
 第三方机器人 `群友召唤术`|移除
-红包挂 *邮件*|移除
+红包挂 邮件|移除
 
 [^1]:发送重复/相似消息，包括占屏与刷图；单人不小于三条，多人大于三条。占屏可用合并转发。
 [^2]:使用json/xml编写的消息。不能发送修改后的卡片消息。
@@ -30,6 +30,6 @@
 [^9]:以本人盈利(包括访问量)为主要目的的广告。
 
 　　发布文件向`群文件助手`发送即可，有专人审核。病毒和报毒文件(<a href="https://ata.360.net/detection" target="_blank">点此检测<a/>)须加密 ，*建议*为`infected`；违法文件，原版win镜像，公开gho镜像，bat病毒不能上传，其他镜像可上传分享链接。下载文件请前往<a href="https://yunpan.360.cn/surl_ykun9KgbPpD" target="_blank">360云盘<a/>。  
-#### 本文链接[webpage.iwsoft.cn/group](https://webpage.iwsoft.cn/group)
+#### 本文链接[webpage-cn.eu.org/group](./group)
 <script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.x/lib/L2Dwidget.min.js#gddhy.net"></script>
 <script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"https://cdn.jsdelivr.net/gh/gddhy/gddhy.github.io/live2dw/22/model.json"},"display":{"position":"right","width":210,"height":260},"mobile":{"show":true},"log":false});</script>
