@@ -29,7 +29,7 @@
 [^8]:使用合法手段访问非法网址/逃避政府追查的工具。
 [^9]:以本人盈利(包括访问量)为主要目的的广告。
 
-　　发布文件向`群文件助手`发送即可，有专人审核。病毒和报毒文件(<a href="https://ata.360.net/detection" target="_blank">点此检测<a/>)须加密 ，*建议*为`infected`；违法文件，原版win镜像，公开gho镜像，bat病毒不能上传，其他镜像可上传分享链接。下载文件请前往<a href="https://yunpan.360.cn/surl_ykun9KgbPpDhttps://yunpan.360.cn/surl_y8wqtYFgaXL" target="_blank">360云盘<a/>(提取码`5d12`)。  
+　　发布文件向`群文件助手`发送即可，有专人审核。病毒和报毒文件(<a href="https://ata.360.net/detection" target="_blank">点此检测<a/>)须加密 ，*建议*为`infected`；违法文件，原版win镜像，公开gho镜像，bat病毒不能上传，其他镜像可上传分享链接。下载文件请前往<a href="https://yunpan.360.cn/surl_y8wqtYFgaXL" target="_blank">360云盘<a/>(提取码`5d12`)。  
 #### 本文链接[webpage-cn.eu.org/group](https://webpage-cn.eu.org/group)
 <script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.x/lib/L2Dwidget.min.js#gddhy.net"></script>
 <script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"https://cdn.jsdelivr.net/gh/gddhy/gddhy.github.io/live2dw/22/model.json"},"display":{"position":"right","width":210,"height":260},"mobile":{"show":true},"log":false});</script>
